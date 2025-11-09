@@ -5,12 +5,11 @@ Step into a glowing 3D Halloween world where haunted houses float, pumpkins star
 ## Features
 - 3D Haunted House with glowing, flickering windows  
 - Glowing Jack-O’-Lantern with detailed facial expressions  
-- Flying bats** animated across the scene  
+- Flying bats animated across the scene  
 - Floating Moon with soft glow and rotation  
 - Interactive parallax effect on mouse movement  
 - Fully implemented using CSS3 3D transforms, gradients, shadows, and animations 
-    
-
+  
 ## Inspiration
 Halloween’s spooky atmosphere inspired the creation of this interactive CSS art. The goal was to combine classic Halloween imagery with modern CSS techniques to create an immersive haunted scene.
 
